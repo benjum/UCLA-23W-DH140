@@ -112,7 +112,7 @@ Late Work
 
 ### Preparation
 
-* Fill out the [pre-class survey](https://forms.gle/erY1a9oYoy8SSMeC8)
+* Fill out the [pre-class survey](https://forms.gle/To7XR3fhKYhrFKCt5)
 * Make sure you can log into the class JupyterHub via the Jupyter Module on BruinLearn
   * We will cover this during our first class.
 
@@ -125,7 +125,7 @@ Late Work
 | Week 5<br>02/06/2023 | Getting Data:<br> Web Scraping and APIs | Twitter, BeautifulSoup, Census  |  ["Seven ways humanists are using computers to understand text."](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/), <br> ["What Every Programmer ... Needs To Know ... To Work With Text"](https://kunststube.net/encoding/) | 
 | Week 6<br>02/13/2023 | Text Analysis | scikit-learn, nltk, spaCy (NLP) | ["How Data Science Pinpointed the Creepiest Word in Macbeth"](https://onezero.medium.com/how-data-science-pinpointed-the-creepiest-word-in-macbeth-3150995d3808),<br>["New Data? The Role of Statistics in DH"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c) | 
 | Week 7<br>Recording posted on 02/20/2023 | Stats & Modeling:<br> Making recommendations, predictions, and arguments | scikit-learn, VADER (sentiments) | ["Timnit Gebru’s Exit From Google Exposes a Crisis in AI"](https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/), <br> ["How Netflix Reverse-Engineered Hollywood"](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/) | 
-| Week 8<br>02/27/2023 | Network Analysis<br> | networkx, Bokeh | ["Demystifying Networks"](http://www.scottbot.net/HIAL/index.html@p=6279.html), <br> "Towards environmental justice success in mining resistances Links to an external site." - Chp 3 & 4. |
+| Week 8<br>02/27/2023 | Network Analysis<br> | networkx, Bokeh | ["Demystifying Networks"](http://www.scottbot.net/HIAL/index.html@p=6279.html), <br> "Towards environmental justice success in mining resistances." - Chp 3 & 4. |
 | Week 9<br>03/06/2023 | Data Pipelines & Data Stories | GitHub Pages | Find-your-own-reading | 
 | Week 10<br>03/13/2023 | Data Pipelines & Data Stories II |  | | 
 | Finals Week<br>03/20/2023 | Projects Due |  |  |
