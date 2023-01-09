@@ -34,15 +34,15 @@ During this course, you will:
 
 The course materials will consist primarily of Jupyter Notebooks and online readings. The only technology requirement on your part is access to a web browser.
 
-**Canvas:** 
+**BruinLearn:** 
 
-* Assignment submissions and discussions will take place on the Canvas course site, accessible at [bruinlearn.ucla.edu](https://bruinlearn.ucla.edu).
+* Assignment submissions and discussions will take place on the BruinLearn course site, accessible at [bruinlearn.ucla.edu](https://bruinlearn.ucla.edu).
 
 **Jupyter Notebooks:** 
 
 * All class notebooks will accessible through the Jupyter module on our BruinLearn course site.  This module will allow you to access a JupyterHub that has Python and all required packages already installed. 
 * You are, of course, also welcome to download notebooks to your own computer and install everything locally -- as a back-up, all in-class notebooks will also be stored on the web at [this GitHub repository](https://github.com/benjum/UCLA-23W-DH140). 
-  * Do note that you will still need to access and submit all assignment notebooks via the JupyterHub instance linked in our Canvas modules.
+  * Do note that you will still need to access and submit all assignment notebooks via the JupyterHub instance linked in our BruinLearn Jupyter Module.
 
 **Online Readings:** 
 
@@ -54,14 +54,14 @@ The course materials will consist primarily of Jupyter Notebooks and online read
 
 | Graded Activities | Percentage | Notes |
 | --- | --- | --- |
-| Discussion Posts | 10% | Weekly discussion posts on Canvas |
+| Discussion Posts | 10% | Weekly discussion posts on BruinLearn |
 | Assignments | 60% | Coding assignments in Jupyter notebooks, approx 1/week 
 | Final Project Assignments | 5% | Two preliminary assignments to prepare for the final project |
 | Final Project | 25% | Culminating project demonstrating concepts learned throughout course |
 
 ### Discussion Posts
 
-Each week, I will assign a reading and post a prompt or question(s) on Canvas, and you will be required to submit a short discussion post in response to it on Canvas by Sunday (11:59pm) before class. The post should be thoughtful and substantive but relatively brief, just a few sentences up to two paragraphs max in length. You’ll get full marks for completing a post that is on-topic. These posts are simply intended to get you thinking about the material. You are also strongly encouraged to read and respond to the posts of your peers, and we will discuss readings in the class after postings have been made.
+Each week, I will assign a reading and post a prompt or question(s) on BruinLearn, and you will be required to submit a short discussion post in response to it on BruinLearn by Sunday (11:59pm) before class. The post should be thoughtful and substantive but relatively brief, just a few sentences up to two paragraphs max in length. You’ll get full marks for completing a post that is on-topic. These posts are simply intended to get you thinking about the material. You are also strongly encouraged to read and respond to the posts of your peers, and we will discuss readings in the class after postings have been made.
 
 ### Assignments
 
@@ -84,8 +84,11 @@ These projects are to be completed by yourself (no group projects), though we wi
 
 Assignments and discussion posts
 
-* These will be made available on BruinLearn on Mondays.
-* Discussions will be posted under Discussions, and assignments will be posted and accessible under the Jupyter Module.
+* These will be made available on BruinLearn on Mondays, under the Assignments and Discussions sections.
+  * *Special Assignment Note:*
+    * The Assignments section on BruinLearn will detail the Jupyter notebook that needs to be completed, but you will not submit any assignments on BruinLearn.
+    * Assignments will consist of completing Jupyter notebooks that are posted and accessible under the Jupyter Module.  All notebooks will be submitted by a button inside the notebooks.
+    * Assignment grades and feedback will be recorded via the BruinLearn Assignment section.
 * Assignments and discussion posts are due by 11:59pm on the Sunday before the next class.
 * Discussions should be submitted on BruinLearn, and assignments should be submitted by clicking on the Submit button in assigned notebooks.
 
