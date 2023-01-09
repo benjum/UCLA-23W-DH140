@@ -2,6 +2,11 @@
 ### UCLA DH140 / DH250-Seminar-1
 Winter 2023
 
+### Shortcut to run notebooks
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benjum/UCLA-23W-DH140/HEAD)
+
+
 ### Meeting Times
 Mondays 2:00pm - 4:50pm, Rolfe Hall 2118
 
